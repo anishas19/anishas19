@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm Anisha Singh, a data science enthusiast and AI
   💬 Let's connect and discuss anything related to data science, from algorithms to data ethics!
 
 - My Favorite Technologies
-      Python
-      MySQL
-      Excel
+      Python,
+      MySQL,
+      Excel,
       Power BI
 
 - Fun Fact
